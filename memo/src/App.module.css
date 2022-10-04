@@ -1,0 +1,12 @@
+.blue button:hover {
+  background-color: steelblue;
+}
+.red button:hover {
+  background-color: orangered;
+}
+.blue button {
+  background-color: steelblue;
+}
+.red button {
+  background-color: orangered;
+}
